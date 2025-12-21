@@ -42,9 +42,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvim
 
 Aqui estão alguns dos meus projetos mais relevantes, que demonstram minha experiência em **desenvolvimento front-end**:
 
-- 🔎 [**Projeto1**](link)  
-  Descrição do projeto  
-  _Impacto: resultado do projeto._
+- 🔎 [**FindOne - UI Design**](https://www.behance.net/gallery/163050913/FindOne-UI-Design)  
+  Criação do design de telas para o projeto de um aplicativo que auxilia nas buscas de pessoas desaparecidas.
+  _Impacto: Interfaces intuitivas, limpas e modernas, tornando a experiência do usuário satisfatória._
 
 - 📑 [**Projeto2**](link)  
   Descrição do Projeto

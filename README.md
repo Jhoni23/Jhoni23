@@ -1,23 +1,23 @@
 <div align="center">  
   <h1>👋 Olá, sou o Jhonny Santos!</h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=800&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Front-end+Developer;UX%2FUI+Designer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=100&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Front-end+Developer;UX%2FUI+Designer" alt="Typing SVG" /></a>
 </div>
 
----
 
-### Sobre mim  <a href="ttps://www.linkedin.com/in/jhonny-santos-905660186/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+## Sobre mim  
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento front-end e grande interesse em criar interfaces modernas, funcionais e centradas na experiência do usuário. Em busca de uma oportunidade de estágio em programação front-end, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e evoluir tecnicamente.
+Estudante de Análise e Desenvolvimento de Sistemas, estou sempre desenvolvendo sistemas e interfaces modernas, funcionais e centradas na experiência do usuário.
 
-- 🎯 Foco em **desenvolvimento front-end**, criação de interfaces responsivas e boas práticas de usabilidade.
-- 💡 Interesse em transformar ideias e requisitos em **experiências visuais intuitivas** por meio do código.
+- 🎯 Tenho foco em **desenvolvimento front-end**, criando interfaces responsivas e boas práticas de usabilidade.
+- 💡 Transformo ideias em **soluções reais e eficientes** por meio do código.
 - 🚀 Motivado a crescer profissionalmente, contribuir com o time e gerar valor através do desenvolvimento de software.
 
----
+<br>
 
-### 💻 Linguagens
 
-<p align="center">
+#### Linguagens
+
+<p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
@@ -25,9 +25,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvim
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-### 🛠️ Ferramentas
+#### Ferramentas
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello"/>
@@ -36,36 +36,16 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvim
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
----
+<br>
 
-### 🚀 Projetos
-
-Aqui estão alguns dos meus projetos mais relevantes, que demonstram minha experiência em **desenvolvimento front-end**:
+## Projetos
 
 - 🔎 [**FindOne - UI Design**](https://www.behance.net/gallery/163050913/FindOne-UI-Design)  
   Criação do design de telas para o projeto de um aplicativo que auxilia nas buscas de pessoas desaparecidas.
+
   _Impacto: Interfaces intuitivas, limpas e modernas, tornando a experiência do usuário satisfatória._
 
 - 📑 [**Projeto 2**](link)  
   Em andamento...
  <!--  _Impacto: resultado do projeto._ -->
 
----
-
-### 📊 Minhas Estatísticas no GitHub
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Jhoni23&show_icons=true&theme=github_dark"/>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Jhoni23&theme=github-dark-blue&hide_border=false" alt="Sequência de Contribuições do Jhoni23"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoni23&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=1200" alt="Linguagens Mais Usadas pelo Jhoni23"/>
-    </td>
-  </tr>
-</table>

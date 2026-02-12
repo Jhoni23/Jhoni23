@@ -1,16 +1,10 @@
-<div align="center">  
-  <h1>👋 Olá, sou o Jhonny Santos!</h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=100&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Front-end+Developer;UX%2FUI+Designer" alt="Typing SVG" /></a>
-</div>
+<h2>Olá, sou Jhonny Santos!</h2>
 
+Estudante de Front-End, UI/UX Design e Automação de Processos, curso Análise e Desenvolvimento de Sistemas na FBRA, busco criar soluções digitais modernas, intuitivas e funcionais, unindo tecnologia, usabilidade e eficiência. Em uma evolução contínua por meio de estudos e novos desafios, colaborando com a equipe e agregando valor ao ambiente que estou.
 
-## Sobre mim  
-
-Estudante de Análise e Desenvolvimento de Sistemas, estou sempre desenvolvendo sistemas e interfaces modernas, funcionais e centradas na experiência do usuário.
-
-- 🎯 Tenho foco em **desenvolvimento front-end**, criando interfaces responsivas e boas práticas de usabilidade.
-- 💡 Transformo ideias em **soluções reais e eficientes** por meio do código.
-- 🚀 Motivado a crescer profissionalmente, contribuir com o time e gerar valor através do desenvolvimento de software.
+-  Tenho foco em **desenvolvimento front-end**, criando interfaces responsivas e boas práticas de usabilidade.
+-  Transformo ideias em **soluções reais e eficientes** por meio do código.
+-  Motivado a crescer profissionalmente, contribuir com o time e gerar valor através do desenvolvimento de software.
 
 <br>
 
